@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @marciodee86
-- 👀 I’m interested in cibersecurity
-- 🌱 I’m currently learning cibersecurity, digital marketing and AI
-- 💞️ I’m looking to collaborate on a US cibersecurity agency
+- 👀 I’m interested in cybersecurity
+- 🌱 I’m currently learning cybersecurity, digital marketing and AI
+- 💞️ I’m looking to collaborate on a US cybersecurity agency.
 - 📫 How to reach me through my email account and my online profiles such as github or LinkedIn.
 - 😄 Pronouns: Just he
 - ⚡ Fun fact: I am a factory worker who decided to change my career path.
